@@ -60,5 +60,8 @@ strResult.Text = "dwClientState => 0x" + clientstate.ToString("X") + Environment
 ## Example usage - Output
 ![alt text](https://github.com/Lufzy/Advanced-Memory/blob/master/example_output.PNG?raw=true)
 
+  - [Signature Scan working correctly]
+![alt text](https://github.com/Lufzy/Advanced-Memory/blob/master/memorys_example.PNG?raw=true)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
