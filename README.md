@@ -3,9 +3,9 @@
 Advanced Memory Read/Write class
 
   - [x] Memory Read/Write
-  - [x] WorldToScreen for Games
+  - [x] WorldToScreen function
   - [x] FindDMAAddy function
-  - [x] Signature Scan function
+  - [x] Advanced Signature Scan function
   - [x] Module Object
   - [x] others ...
 
