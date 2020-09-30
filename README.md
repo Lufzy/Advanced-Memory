@@ -14,8 +14,8 @@ Advanced Memory Read/Write class
 ```csharp
 
 Memorys.Initialize(p[0].Id);
-client = new Memorys.Module(p[0], "client.dll");
-engine = new Memorys.Module(p[0], "engine.dll");
+Memorys.Module client = new Memorys.Module(p[0], "client.dll");
+Memorys.Module engine = new Memorys.Module(p[0], "engine.dll");
 
 strClient.Text = client.ToString();
 StrEngine.Text = engine.ToString();
